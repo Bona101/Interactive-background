@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Poppins;
+}
+
+.input-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    height: 100vh;
+    margin: 0;
+}
+
+.input-div div {
+    text-align: center;
+}
+
+.input-div > p {
+    font-size: 2rem;
+}
