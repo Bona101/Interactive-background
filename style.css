@@ -3,13 +3,17 @@ body {
     font-family: Poppins;
 }
 
+h1 {
+    text-align: center;
+}
+
 .input-div {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10%;
-    height: 100vh;
-    margin: 0;
+    position: absolute;
+    inset: 0;
 }
 
 .input-div div {
